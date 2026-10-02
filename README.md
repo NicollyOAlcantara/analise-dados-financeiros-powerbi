@@ -21,7 +21,7 @@ Power Query
 Excel
 
  Dashboard
-
+![Dashboard de Análise de Dados Financeiros](Analise%20de%20dados%20financeiros.jpg)
 O dashboard apresenta:
 
 Cards com os principais indicadores financeiros;
@@ -29,8 +29,6 @@ Análise dos principais segmentos;
 Comparação entre receitas e despesas;
 Gráficos de receitas e despesas por componente;
 Tabela detalhada com os valores por ano e categoria.
-
-
 
 
  Aprendizados
@@ -49,5 +47,9 @@ Nicolly de Oliveira Alcântara
 
 Formada em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de conhecimentos em Análise de Dados, Power BI, Excel e SQL.
 
-🔗 LinkedIn
-🔗 Portfólio
+
+##  Contato
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-1E2A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nicollyoalcantara.github.io/#contato)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollyalcantara)
