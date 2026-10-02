@@ -6,7 +6,8 @@ Mini projeto desenvolvido no Power BI com o objetivo de analisar dados financeir
 
 Criar um dashboard que facilite a análise dos dados financeiros, permitindo visualizar a distribuição de receitas e despesas, identificar os principais componentes e acompanhar os resultados ao longo dos anos.
 
-📌 Indicadores analisados
+Indicadores analisados
+
 Total de Receitas
 Total de Despesas
 Margem de Lucro
